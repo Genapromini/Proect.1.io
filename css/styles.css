@@ -1,0 +1,98 @@
+:root {
+    --color-logo: #207520;
+    --color-logo-I: #7a2222;
+    --colot-footer: #000000cc;
+    --color-addres: #cac3bb;
+    --color-Game: #160707;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.Genapromini-I {
+   color: var(--color-logo);
+}
+
+.Games-I {
+   color: var(--color-logo-I);
+}
+
+.haracteristics {
+    background-color: var(--color-logo);
+    border: var(--color-logo);
+    border-radius: 8px;
+    color: var(--color-addres);
+
+}
+
+.footer {
+    background-color: var(--colot-footer);
+    border: var(--colot-footer);
+    border-radius: 8px;
+}
+
+.dani {
+    color: var(--color-addres);
+
+    
+}
+
+.Game {
+    color:var(--color-Game);
+    position: absolute;
+    left: 96%;
+    border: 2px solid #645f5fa1;
+    border-radius: 6px;
+    background: #645f5fa1;
+}
+
+.DDnet {
+    color: var(--color-Game);
+    position: absolute;
+    left: 1%;
+    border: 2px solid #645f5fa1;
+    border-radius: 6px;
+    background: #645f5fa1;
+}
+
+.Fortnite {
+    color: var(--color-Game);
+    position: absolute;
+    left: 71%;
+    border: 2px solid #645f5fa1;
+    border-radius: 6px;
+    background: #645f5fa1;
+}
+
+.Metro-2033 {
+    color: var(--color-Game);
+    position: absolute;
+    left: 21%;
+    border: 2px solid #645f5fa1;
+    border-radius: 6px;
+    background: #645f5fa1;
+}
+
+.Metro-exodus {
+    color: var(--color-Game);
+    position: absolute;
+    left: 46%;
+    border: 2px solid #645f5fa1;
+    border-radius: 6px;
+    background: #645f5fa1;
+}
+
+.html {
+    background-color: antiquewhite;
+}
+
+.logo {
+    position: absolute;
+    left: 50%;
+}
+
+li.lol  { 
+    position: absolute;
+    bottom: px;
+}
